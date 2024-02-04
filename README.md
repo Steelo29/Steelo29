@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Steelo29
+- 👋 Hi, I’m @Jesse Anderon
 - 👀 I’m interested in learning everything I can about computers and code
 - 🌱 I’m currently learning Civil Engineering
-- 💞️ I’m looking to collaborate on Anything that i deem useful to my career
+- 💞️ I’m looking to collaborate on Anything that I deem useful to my career
 - 📫 How to reach me Email: jesseanderson555@gmail.com
 
 <!---
